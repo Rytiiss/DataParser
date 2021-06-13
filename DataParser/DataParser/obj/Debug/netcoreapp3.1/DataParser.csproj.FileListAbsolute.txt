@@ -1,0 +1,13 @@
+C:\Users\rytisalisauskas\OneDrive - Kaunas University of Technology\DataParser\DataParser\bin\Debug\netcoreapp3.1\DataParser.exe
+C:\Users\rytisalisauskas\OneDrive - Kaunas University of Technology\DataParser\DataParser\bin\Debug\netcoreapp3.1\DataParser.deps.json
+C:\Users\rytisalisauskas\OneDrive - Kaunas University of Technology\DataParser\DataParser\bin\Debug\netcoreapp3.1\DataParser.runtimeconfig.json
+C:\Users\rytisalisauskas\OneDrive - Kaunas University of Technology\DataParser\DataParser\bin\Debug\netcoreapp3.1\DataParser.runtimeconfig.dev.json
+C:\Users\rytisalisauskas\OneDrive - Kaunas University of Technology\DataParser\DataParser\bin\Debug\netcoreapp3.1\DataParser.dll
+C:\Users\rytisalisauskas\OneDrive - Kaunas University of Technology\DataParser\DataParser\bin\Debug\netcoreapp3.1\DataParser.pdb
+C:\Users\rytisalisauskas\OneDrive - Kaunas University of Technology\DataParser\DataParser\obj\Debug\netcoreapp3.1\DataParser.AssemblyInfoInputs.cache
+C:\Users\rytisalisauskas\OneDrive - Kaunas University of Technology\DataParser\DataParser\obj\Debug\netcoreapp3.1\DataParser.AssemblyInfo.cs
+C:\Users\rytisalisauskas\OneDrive - Kaunas University of Technology\DataParser\DataParser\obj\Debug\netcoreapp3.1\DataParser.csproj.CoreCompileInputs.cache
+C:\Users\rytisalisauskas\OneDrive - Kaunas University of Technology\DataParser\DataParser\obj\Debug\netcoreapp3.1\DataParser.dll
+C:\Users\rytisalisauskas\OneDrive - Kaunas University of Technology\DataParser\DataParser\obj\Debug\netcoreapp3.1\DataParser.pdb
+C:\Users\rytisalisauskas\OneDrive - Kaunas University of Technology\DataParser\DataParser\obj\Debug\netcoreapp3.1\DataParser.genruntimeconfig.cache
+C:\Users\rytisalisauskas\OneDrive - Kaunas University of Technology\DataParser\DataParser\obj\Debug\netcoreapp3.1\DataParser.csproj.AssemblyReference.cache
